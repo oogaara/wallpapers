@@ -49,11 +49,11 @@ wallpapers/
 
 | Category | Preview |
 |----------|---------|
-| **Futurist** | ![Preview](futurist/the-city-cyberpunk-art.jpg) |
+| **Futurist** | ![Preview](futurist/futurist_004.jpg) |
 | **Miku** | ![Preview](miku/miku01.jpg) |
 | **Lofi** | ![Preview](lofi/badroom-001.jpg) |
-| **Games** | ![Preview](games/genshin-black-wallpaper.jpg) |
-| **Space** | ![Preview](space/windows-11-4k-planet-earth-69d3857325c9qkav.jpg) |
+| **Games** | ![Preview](games/anime_image_009.jpg) |
+| **Space** | ![Preview](space/space_003.jpg) |
 
 </div>
 
