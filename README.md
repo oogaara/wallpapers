@@ -52,8 +52,8 @@ wallpapers/
 | **Futurist** | ![Preview](futurist/futurist_004.jpg) |
 | **Miku** | ![Preview](miku/miku01.jpg) |
 | **Lofi** | ![Preview](lofi/badroom-001.jpg) |
-| **Games** | ![Preview](games/anime_image_009.jpg) |
-| **Space** | ![Preview](space/space_003.jpg) |
+| **Games** | ![Preview](games/games_image_009.png) |
+| **Space** | ![Preview](space/space_003.png) |
 
 </div>
 
